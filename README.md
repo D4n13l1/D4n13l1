@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m a student of computer science
+- 👀 I’m a fucking student of computer science
 - 🌱 I’m living in Brazil
 - I love making programs for coputer, but, dis is not easy, this git was made to help me in college
 - So, you're seeing all my work so far
