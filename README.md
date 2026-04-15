@@ -1,6 +1,6 @@
 # Olá, eu sou o Daniel Jorge! 👋
 
-Estudante de **Ciência da Computação** no IF Goiano, apaixonado por resolver problemas complexos através do código. Atualmente, atuo como **Desenvolvedor de Software** em projetos voltados para Engenharia de Dados, Backend e Inteligência Artificial.
+Finazliando o curso de **Ciência da Computação** no IF Goiano, apaixonado por resolver problemas complexos através do código. Atualmente, atuo como **Desenvolvedor de Software** em projetos voltados para Engenharia de Dados, Backend e Inteligência Artificial.
 
 ---
 
